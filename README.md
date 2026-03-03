@@ -1,5 +1,4 @@
 # Break SynthID
-![](./img.png)
 
 ## Overview
 
@@ -21,6 +20,8 @@ This work investigates:
 - Robustness under paraphrasing and transformations
 
 - Distributional shifts between watermarked and non-watermarked outputs
+
+  ![](./img.png)
 
 ## Key Contributions
 
