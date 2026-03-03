@@ -1,5 +1,5 @@
 # Break SynthID
-![alt text](./img.png)
+![](./img.png)
 
 ## Overview
 
